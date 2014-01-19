@@ -9,7 +9,7 @@ License:        GPLv2+
 Group:          Emulators
 Url:		https://silver.arm.com/browse/FM00A
 Source0:        https://silver.arm.com/download/Development_Tools/ESL:_Fast_Models/Fast_Models/%{cname}.tgz
-BuildArch:	x86_64
+ExclusiveArch:	x86_64
 
 %description
 The ARMv8 architecture introduces 64-bit support to the
