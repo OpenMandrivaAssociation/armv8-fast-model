@@ -4,7 +4,7 @@
 Summary:        Interactive text-mode process viewer for Linux
 Name:           armv8-fast-model
 Version:	0.8.5206
-Release:        1
+Release:        2
 License:        GPLv2+
 Group:          Emulators
 Url:		https://silver.arm.com/browse/FM00A
